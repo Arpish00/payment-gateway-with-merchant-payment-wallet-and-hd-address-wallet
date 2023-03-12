@@ -10,6 +10,8 @@ A payment gateway solution built on the Ethereum platform that enables users to 
 - HD wallet: Node.js, Express.js, HTTPS API, BIP39, ethutil, ethtx
 - Payment wallet: Ganache, Web3, React, Node.js, BIP39, HTTP API, Bulma CSS
 
+![alt text](wallet.svg)
+
 ## Key Features
 
 - Defining blockchain payment ecosystem
